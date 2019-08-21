@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculator.Android", "TaxCalculator\TaxCalculator.Android\TaxCalculator.Android.csproj", "{C7E106EE-9344-405E-9185-E49E4C92C256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxCalculator", "TaxCalculator\TaxCalculator\TaxCalculator.csproj", "{3800FE5D-7996-426F-B097-43C29A314D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E106EE-9344-405E-9185-E49E4C92C256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E106EE-9344-405E-9185-E49E4C92C256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E106EE-9344-405E-9185-E49E4C92C256}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C7E106EE-9344-405E-9185-E49E4C92C256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E106EE-9344-405E-9185-E49E4C92C256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E106EE-9344-405E-9185-E49E4C92C256}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3800FE5D-7996-426F-B097-43C29A314D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3800FE5D-7996-426F-B097-43C29A314D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3800FE5D-7996-426F-B097-43C29A314D27}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3800FE5D-7996-426F-B097-43C29A314D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3800FE5D-7996-426F-B097-43C29A314D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3800FE5D-7996-426F-B097-43C29A314D27}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8521654-159D-41D3-9F3F-D41AF914B8C3}
+	EndGlobalSection
+EndGlobal
