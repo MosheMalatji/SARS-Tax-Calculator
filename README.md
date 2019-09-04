@@ -31,11 +31,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * NtengisoMarket.co.za who the project was built for
 
 ## Screenshots
-**Tax Calculator**
+### Main Tab
 ![TaxCalculator PNG](https://github.com/MosheMalatji/SARS-Tax-Calculator/blob/master/TaxCalculator/Screenshots/Screenshot_20190902-192930.jpg)
 
-**Tax Tables**
+### Tax Tables Tab
 ![TaxCalculator PNG](https://github.com/MosheMalatji/SARS-Tax-Calculator/blob/master/TaxCalculator/Screenshots/Screenshot_20190902-193027.jpg)
 
-**Intuitive UI
+### Hide/Unhide Display
 ![TaxCalculator PNG](https://github.com/MosheMalatji/SARS-Tax-Calculator/blob/master/TaxCalculator/Screenshots/Screenshot_20190902-193021.jpg)
