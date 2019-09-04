@@ -9,6 +9,11 @@ Calculate tax difference between current financial year(2020-2021) and previous 
 
 Display Label appears only when "Calculate is pressed" and will hide again when the screen is cleared for intuitive and clear design
 
+##Screenshots
+**Tax Calculator**
+
+![TaxCalculator PNG](https://github.com/MosheMalatji/SARS-Tax-Calculator/blob/master/TaxCalculator/Screenshots/Screenshot_20190902-192930.jpg)
+
 ## Built with
 
 * XAMARIN Forms
