@@ -11,7 +11,7 @@ Display Label appears only when "Calculate is pressed" and will hide again when 
 
 ## Built with
 
-* xAMARIN Forms
+* XAMARIN Forms
 * C#
 
 ## Versioning
