@@ -6,3 +6,5 @@ This app makes use of tabviews with a calculator child page and tax tables child
 Features
 Calculate monthly income tax
 Calculate tax difference between current financial year(2020-2021) and previous year(2019-2020)
+
+Display Label appears only when "Calculate is pressed" and will hide again when the screen is cleared for intuitive and clear design
